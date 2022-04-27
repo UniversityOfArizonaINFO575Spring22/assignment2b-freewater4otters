@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(61, 146, 201);
+    color: rgba(75, 201, 61, 0.63);
 }
 a:hover,
 a:focus {
@@ -71,7 +71,7 @@ h3 {
 }
 .nav-item a:hover,
 .nav-item a:focus {
-    border: 2px solid rgb(61, 146, 201);
+    border: 2px solid rgba(61, 201, 131, 0.68);
     text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ h3 {
     background: #5aba59;
 }
 .post-category-pure {
-    background: #4d85d1;
+    background: rgba(71, 196, 121, 0.78);
 }
 .post-category-yui {
     background: #8156a7;
