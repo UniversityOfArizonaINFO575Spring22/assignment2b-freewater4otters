@@ -34,7 +34,7 @@ h3 {
 }
 
 .sidebar {
-    background: rgb(61, 79, 93);
+    background: rgba(23, 129, 83, 0.66);
     color: #fff;
 }
 
@@ -47,7 +47,7 @@ h3 {
 }
 .brand-tagline {
     font-weight: 300;
-    color: rgb(176, 202, 219);
+    color: rgb(231, 238, 243);
 }
 
 .nav-list {
@@ -96,11 +96,7 @@ h3 {
     font-size: 2em;
     color: #222;
     margin-bottom: 0.2em;
-}
-.post-avatar {
-    border-radius: 50px;
-    float: right;
-    margin-left: 1em;
+
 }
 .post-description {
     font-family: Georgia, "Cambria", serif;
@@ -111,26 +107,7 @@ h3 {
     color: #999;
     font-size: 90%;
     margin: 0;
-}
 
-.post-category {
-    margin: 0 0.1em;
-    padding: 0.3em 1em;
-    color: #fff;
-    background: #999;
-    font-size: 80%;
-}
-.post-category-design {
-    background: #5aba59;
-}
-.post-category-pure {
-    background: rgba(71, 196, 121, 0.78);
-}
-.post-category-yui {
-    background: #8156a7;
-}
-.post-category-js {
-    background: #df2d4f;
 }
 
 .post-images {
